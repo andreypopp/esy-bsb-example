@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@opam/ppx_let": "*",
+    "ocaml": "4.6.x"
+  }
+}
